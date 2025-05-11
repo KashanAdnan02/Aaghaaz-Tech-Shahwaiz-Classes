@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Cal Sans";
+}
+
+* {
+    color: blue;
+}
+
+.text-heading {
+    color: red;
+}
+
+#text3 {
+    color: blue;
+}
+
+ul li {
+    font-size: 19px;
+    color: brown;
+}
